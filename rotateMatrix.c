@@ -3,6 +3,8 @@
 #define R 4
 #define C 4
 
+// The Matrix is Rotated Clockwise
+
 void rotatematrix(int m, int n, int mat[R][C])
 {
     int row = 0, col = 0;
